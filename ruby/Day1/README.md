@@ -1,6 +1,8 @@
-# First day exercise solutions for Ruby
+First day exercise solutions for Ruby
+=====================================
 
 Find:
+-----
 - The Ruby API
 - The free online version of Programming Ruby: The Pragmatic Pro- grammer’s Guide [TFH08]
 
@@ -9,6 +11,7 @@ Find:
 - Information about Ruby’s ranges
 
 Do:
+---
 - Print the string “Hello, world.”
 - For the string “Hello, Ruby,” find the index of the word “Ruby.”
 - Print your name ten times.
@@ -19,7 +22,8 @@ Do:
 
 
 Sources:
-http://rubydev.ru/2011/05/rubydev-ruby-tutorial-6-regexp/
-http://ru.wikibooks.org/wiki/Ruby/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA/Range
-http://www.tutorialspoint.com/ruby/ruby_ranges.htm
-http://ru.wikibooks.org/wiki/Ruby/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA/String
+--------
+- [Ruby regexps](http://rubydev.ru/2011/05/rubydev-ruby-tutorial-6-regexp/)
+- [Ruby ranges](http://ru.wikibooks.org/wiki/Ruby/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA/Range)
+- [One more ruby ranges](http://www.tutorialspoint.com/ruby/ruby_ranges.htm)
+- [Ruby Strings](http://ru.wikibooks.org/wiki/Ruby/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA/String)
